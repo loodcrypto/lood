@@ -1,2 +1,2 @@
-# lood
+# LOOD
 LOOD cryptocurrency.
